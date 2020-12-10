@@ -2,6 +2,8 @@
 ## Description 
     I was tasked by a marketing agency to check out their codebase for accessibility standards. Their website worked without any issues but I did see that there were some code cleaning and fixing I needed to do. MY motivation in this project was to make myself and some other coders life easier. Problems I saw was that they overrused lines when they did not need to, the images did not have an alt link, and one of the headers main did not have a correct anchor reference. 
 
+https://aribrizuela.github.io/refactoring-example-site/
+
 Copyright (c) 2020 Ariel Brizuela
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
